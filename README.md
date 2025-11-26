@@ -61,11 +61,21 @@ Structured analysis was performed in MySQL to answer key fraud-related questions
 1. **Fraud Amount by Hour** – Comparison of fraud vs legitimate amounts by hour of day.
 <img width="369" height="473" alt="Screenshot 2025-11-26 195502" src="https://github.com/user-attachments/assets/34b79da1-d618-4dc6-a727-4cd8808d104a" />
 
-3. **Fraud by Transaction Type** – Fraud trends across ATM, POS, QR, and Online modes.  
-4. **Merchant Category Analysis** – Which merchants face higher fraudulent activity?  
-5. **Country-wise Fraud Comparison** – Identify high-risk countries.  
-6. **User Activity Analysis** – Detect users with abnormal transaction counts.  
-7. **Overall Fraud vs Legitimate Amount** – Total monetary comparison.
+2. **Fraud by Transaction Type** – Fraud trends across ATM, POS, QR, and Online modes.
+   <img width="422" height="246" alt="Screenshot 2025-11-26 195803" src="https://github.com/user-attachments/assets/144933a0-33e4-4144-8be0-3ac2e8ba2c9a" />
+
+3. **Merchant Category Analysis** – Which merchants face higher fraudulent activity?
+<img width="414" height="270" alt="Screenshot 2025-11-26 195912" src="https://github.com/user-attachments/assets/29ba05d8-e093-48db-894b-660f5ff452f7" />
+  
+4. **Country-wise Fraud Comparison** – Identify high-risk countries.
+    <img width="371" height="303" alt="Screenshot 2025-11-26 200226" src="https://github.com/user-attachments/assets/64f0f1b0-f5aa-4868-9a7b-e261f961d3c2" />
+
+5. **User Activity Analysis** – Detect users with abnormal transaction counts.
+   <img width="290" height="499" alt="Screenshot 2025-11-26 200440" src="https://github.com/user-attachments/assets/245e90c7-288c-4870-a39f-1a91323aadbb" />
+
+6. **Overall Fraud vs Legitimate Amount** – Total monetary comparison.
+<img width="287" height="109" alt="Screenshot 2025-11-26 200534" src="https://github.com/user-attachments/assets/e1fedc37-b0b4-4056-9e2d-dd533871cd24" />
+    
 
 ---
 
@@ -83,7 +93,6 @@ The interactive dashboard displays:
 - Hourly Fraud Trends  
 
 📌 **Dashboard Screenshot:**  
-(Replace below with actual image in your repo)
 
 ![Dashboard](DashBoard/Financial_Fraud_Dashboard.png)
 
@@ -112,8 +121,9 @@ The interactive dashboard displays:
 
 **Ravi Kumar Gupta**  
 Data Analyst | Power BI | SQL | Python  
-GitHub: https://github.com/btwitravi  
-LinkedIn: https://www.linkedin.com/in/ravi-kumar-gupta-161745247/
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btwitravi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
+
 
 ---
 
