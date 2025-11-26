@@ -83,7 +83,7 @@ The interactive dashboard displays:
 📌 **Dashboard Screenshot:**  
 (Replace below with actual image in your repo)
 
-![Dashboard](dashboard/Financial_Fraud_Dashboard.png)
+![Dashboard](DashBoard/Financial_Fraud_Dashboard.png)
 
 ---
 
