@@ -4,19 +4,21 @@ This project analyzes synthetic financial transaction data to identify fraud pat
 Using **MySQL** for data cleaning & analysis and **Power BI** for interactive visualization, the project highlights high-risk countries, fraud-prone transaction types, merchant categories, hourly fraud trends, and suspicious user patterns.
 
 ---
-## 📁 Project Structure 
+## 📁 Project Structure (Table Format)
 
-| Folder / File                     | Description                                      |
-|----------------------------------|--------------------------------------------------|
-| **data/**                        | Dataset used for analysis                        |
-| └── synthetic_fraud_dataset.csv  | Raw synthetic fraud transaction dataset          |
-| **sql/**                         | SQL analysis scripts                             |
-| └── fraud_analysis_queries.sql   | All MySQL queries used in the project            |
-| **dashboard/**                   | Power BI dashboard files & visuals               |
-| └── Financial_Fraud_Dashboard.png| Dashboard screenshot                             |
-| **reports/**                     | Project documentation and presentation           |
-| └── Fraud_Analysis_Report.docx   | Full project report                              |
-| **README.md**                    | Project overview and documentation               |
+| Folder / File                               | Description                                      |
+|---------------------------------------------|--------------------------------------------------|
+| **data/**                                    | Dataset used for analysis                        |
+| └── synthetic_fraud_dataset.csv              | Raw synthetic fraud transaction dataset          |
+| **sql/**                                     | SQL analysis scripts                             |
+| └── fraud_analysis_.sql                      | All MySQL queries used in the project            |
+| **dashboard/**                               | Power BI dashboard files & visuals               |
+| └── Financial_Fraud_Dashboard.png            | Dashboard screenshot                             |
+| └── Financial_Fraud_Analysis.pbix            | Power BI report file (interactive dashboard)      |
+| **reports/**                                 | Project documentation and presentations          |
+| └── Fraud_Analysis Report.docx               | Full project report                              |
+| └── Business Problem for Fraud.docx          | Detailed business problem statement              |
+| **README.md**                                | Project overview and documentation               |
 
 
 ---
