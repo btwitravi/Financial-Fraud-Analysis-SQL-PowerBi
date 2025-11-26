@@ -14,9 +14,8 @@ Using **MySQL** for data cleaning & analysis and **Power BI** for interactive vi
 | └── fraud_analysis_queries.sql   | All MySQL queries used in the project            |
 | **dashboard/**                   | Power BI dashboard files & visuals               |
 | └── Financial_Fraud_Dashboard.png| Dashboard screenshot                             |
-| **reports/**                     | Project documentation and presentation           |l
+| **reports/**                     | Project documentation and presentation           |
 | └── Fraud_Analysis_Report.docx   | Full project report                              |
-| └── Fraud_Analysis_Presentation.pptx | Project presentation (PPT)                  |
 | **README.md**                    | Project overview and documentation               |
 
 
@@ -57,12 +56,14 @@ The dataset contains **10,000 transactions** with the following attributes:
 
 Structured analysis was performed in MySQL to answer key fraud-related questions:
 
-1. **Fraud Amount by Hour** – Comparison of fraud vs legitimate amounts by hour of day.  
-2. **Fraud by Transaction Type** – Fraud trends across ATM, POS, QR, and Online modes.  
-3. **Merchant Category Analysis** – Which merchants face higher fraudulent activity?  
-4. **Country-wise Fraud Comparison** – Identify high-risk countries.  
-5. **User Activity Analysis** – Detect users with abnormal transaction counts.  
-6. **Overall Fraud vs Legitimate Amount** – Total monetary comparison.
+1. **Fraud Amount by Hour** – Comparison of fraud vs legitimate amounts by hour of day.
+<img width="369" height="473" alt="Screenshot 2025-11-26 195502" src="https://github.com/user-attachments/assets/34b79da1-d618-4dc6-a727-4cd8808d104a" />
+
+3. **Fraud by Transaction Type** – Fraud trends across ATM, POS, QR, and Online modes.  
+4. **Merchant Category Analysis** – Which merchants face higher fraudulent activity?  
+5. **Country-wise Fraud Comparison** – Identify high-risk countries.  
+6. **User Activity Analysis** – Detect users with abnormal transaction counts.  
+7. **Overall Fraud vs Legitimate Amount** – Total monetary comparison.
 
 ---
 
